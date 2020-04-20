@@ -6,8 +6,8 @@
       "name": "mobirise-amp",
       "title": "Mobirise AMP",
       "styling": {
-        "primaryColor": "#ff16d7",
-        "secondaryColor": "#86d600",
+        "primaryColor": "#86d600",
+        "secondaryColor": "#ff16d7",
         "successColor": "#2b62ff",
         "infoColor": "#8282e7",
         "warningColor": "#767676",
@@ -23,7 +23,7 @@
         "display7Size": 1.1,
         "display4Font": "Roboto",
         "display4Size": 0.9,
-        "isRoundedButtons": false,
+        "isRoundedButtons": true,
         "isScrollToTopButton": false,
         "arrowColor": "#4ea2e3"
       },
