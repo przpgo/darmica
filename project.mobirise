@@ -45,7 +45,7 @@
     "uniqCompNum": 33,
     "versionPublish": "4.12.3",
     "screenshot": "screenshot.png",
-    "google-analytics": "<script type=\"text/javascript\" src=\"//downloads.mailchimp.com/js/signup-forms/popup/unique-methods/embed.js\" data-dojo-config=\"usePlainJson: true, isDebug: false\"></script><script type=\"text/javascript\">window.dojoRequire([\"mojo/signup-forms/Loader\"], function(L) { L.start({\"baseUrl\":\"mc.us19.list-manage.com\",\"uuid\":\"a8ddb53a410e3b4d36abb0827\",\"lid\":\"242dd8bdfc\",\"uniqueMethods\":true}) })</script>",
+    "google-analytics": "<script type=\"text/javascript\" src=\"//downloads.mailchimp.com/js/signup-forms/popup/unique-methods/embed.js\" data-dojo-config=\"usePlainJson: true, isDebug: false\"></script><script type=\"text/javascript\">window.dojoRequire([\"mojo/signup-forms/Loader\"], function(L) { L.start({\"baseUrl\":\"mc.us19.list-manage.com\",\"uuid\":\"a8ddb53a410e3b4d36abb0827\",\"lid\":\"242dd8bdfc\",\"uniqueMethods\":true}) })</script>\n\n\n<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=G-HTS0D9RR92\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'G-HTS0D9RR92');\n</script>",
     "favicon": false,
     "canonical-url": false,
     "imageResize": false,
