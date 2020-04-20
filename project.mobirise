@@ -30,7 +30,8 @@
       "additionalSetColors": [
         "#ff16d7",
         "#86d600",
-        "#2b62ff"
+        "#2b62ff",
+        "#a7a7a7"
       ]
     },
     "path": "@PROJECT_PATH@",
@@ -45,15 +46,26 @@
     "uniqCompNum": 33,
     "versionPublish": "4.12.3",
     "screenshot": "screenshot.png",
-    "google-analytics": "<script type=\"text/javascript\" src=\"//downloads.mailchimp.com/js/signup-forms/popup/unique-methods/embed.js\" data-dojo-config=\"usePlainJson: true, isDebug: false\"></script><script type=\"text/javascript\">window.dojoRequire([\"mojo/signup-forms/Loader\"], function(L) { L.start({\"baseUrl\":\"mc.us19.list-manage.com\",\"uuid\":\"a8ddb53a410e3b4d36abb0827\",\"lid\":\"242dd8bdfc\",\"uniqueMethods\":true}) })</script>\n\n\n<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=G-HTS0D9RR92\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'G-HTS0D9RR92');\n</script>",
+    "google-analytics": "\n<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=G-HTS0D9RR92\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'G-HTS0D9RR92');\n</script>",
     "favicon": false,
     "canonical-url": false,
-    "imageResize": false,
+    "imageResize": true,
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
     "sitemapSwitcherAuto": false,
     "siteUrl": false,
-    "cookiesAlert": false,
+    "cookiesAlert": {
+      "customDialogSelector": false,
+      "colorText": "#424a4d",
+      "colorBg": "#ffffff",
+      "colorButton": "#86d600",
+      "colorLink": "#424a4d",
+      "underlineLink": true,
+      "opacity": "99",
+      "opacityOverlay": "80",
+      "text": "Usamos cookies para una mejor experiencia . \nLee nuestra <a href='privacy-policy.html'>política de privacidad y uso de datos personales</a>.\n\n<br>\n",
+      "textButton": "Estoy de Acuerdo"
+    },
     "gdpr": false
   },
   "pages": {
